@@ -7,4 +7,4 @@ __pycache__
 db.sqlite3
 /static
 .DS_Store
-api-token.txt
+api-token.py
